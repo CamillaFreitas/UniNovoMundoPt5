@@ -1,0 +1,49 @@
+body strong{
+    color: rgb(252, 214, 1);
+}
+
+main{
+    width: 100%;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80%;
+    font-size: 100%;
+}
+
+h4{
+    color: rgb(56, 56, 112);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
+
+img.banner#estudantes{
+    width: 58%;
+    display: block;
+    border-radius: 50%;
+    border: solid 5px rgb(252, 214, 1);
+}
+
+.container {
+    position: relative;
+    width: 100%;
+  }
+
+#links{
+    color: black;
+    text-decoration: none;
+
+}
+
+#icones{
+    width: 3%;
+    position: relative;
+    bottom: 3px;
+}
+
+#endereco, #direitos{
+    text-align: center;
+    font-size: 70%;
+}
+
